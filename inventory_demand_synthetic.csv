@@ -1,0 +1,7 @@
+component_id,component_name,plant_id,units_per_vehicle,avg_daily_demand_units,daily_demand_std_units,lead_time_days,on_hand_inventory_units,safety_stock_units,reorder_point_units,holding_cost_per_unit_per_day_usd,stockout_penalty_per_unit_usd,criticality_score,data_type
+C001,Audio control module,P001,1,1200,350,14,1555,2160,18960,18,250,0.75,synthetic_illustrative
+C002,Engine control unit,P001,1,1100,400,35,1094,3904,42404,25,600,0.95,synthetic_illustrative
+C003,Semiconductor module,P001,2,2200,850,42,3020,9089,101489,30,900,0.98,synthetic_illustrative
+C004,Wiring harness,P001,1,1250,300,10,1534,1565,14065,12,180,0.85,synthetic_illustrative
+C005,Electronic substrate,P001,2,2100,650,28,1437,5675,64475,20,450,0.8,synthetic_illustrative
+C006,Connector set,P001,4,4800,900,12,7094,5144,62744,8,100,0.55,synthetic_illustrative

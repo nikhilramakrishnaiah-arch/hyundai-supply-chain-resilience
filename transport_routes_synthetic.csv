@@ -1,0 +1,13 @@
+route_id,supplier_id,origin_region,destination_plant_id,transport_mode,transit_time_days,cost_per_shipment_usd,max_capacity_units_per_shipment,disruption_delay_days,synthetic_flag
+R001,S001,Domestic origin (illustrative),P001,Road,3,450,1200,2,True
+R002,S001,Domestic origin (illustrative),P001,Air,1,1800,300,1,True
+R003,S004,Domestic origin (illustrative),P001,Road,2,380,1400,2,True
+R004,S004,Domestic origin (illustrative),P001,Air,1,1600,350,1,True
+R005,S006,Domestic origin (illustrative),P001,Road,4,520,1000,3,True
+R006,S006,Domestic origin (illustrative),P001,Air,1,1900,250,1,True
+R007,S002,South Korea (illustrative),P001,Sea + Road,18,1250,1800,7,True
+R008,S002,South Korea (illustrative),P001,Air,3,4200,450,2,True
+R009,S003,Japan (illustrative),P001,Sea + Road,22,1450,1600,8,True
+R010,S003,Japan (illustrative),P001,Air,3,4600,400,2,True
+R011,S005,Thailand (illustrative),P001,Sea + Road,15,1100,1700,6,True
+R012,S005,Thailand (illustrative),P001,Air,2,3900,500,2,True

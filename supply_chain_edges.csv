@@ -1,0 +1,13 @@
+source_id,source_type,target_id,target_type,relationship,synthetic
+S001,supplier,C001,component,supplies,True
+S002,supplier,C002,component,supplies,True
+S003,supplier,C003,component,supplies,True
+S004,supplier,C004,component,supplies,True
+S005,supplier,C005,component,supplies,True
+S006,supplier,C006,component,supplies,True
+C001,component,P001,plant,used_at,True
+C002,component,P001,plant,used_at,True
+C003,component,P001,plant,used_at,True
+C004,component,P001,plant,used_at,True
+C005,component,P001,plant,used_at,True
+C006,component,P001,plant,used_at,True

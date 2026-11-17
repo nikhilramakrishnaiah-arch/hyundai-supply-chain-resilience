@@ -1,0 +1,7 @@
+component_id,component_name,criticality_score,units_per_vehicle,plant_id,synthetic
+C001,Audio control module,0.75,1,P001,True
+C002,Engine control unit,0.95,1,P001,True
+C003,Semiconductor module,0.98,2,P001,True
+C004,Wiring harness,0.85,1,P001,True
+C005,Electronic substrate,0.8,2,P001,True
+C006,Connector set,0.55,4,P001,True

@@ -1,0 +1,7 @@
+supplier_id,supplier_name,country,tier,component_id,component_name,lead_time_days,capacity_units_month,single_source_dependency,alternative_supplier_available,country_logistics_risk,synthetic
+S001,Supplier Alpha,India,1,C001,Audio control module,14,12000,0.7,1,0.25,True
+S002,Supplier Beta,South Korea,1,C002,Engine control unit,35,9000,0.85,0,0.2,True
+S003,Supplier Gamma,Japan,1,C003,Semiconductor module,42,8000,0.9,0,0.18,True
+S004,Supplier Delta,India,1,C004,Wiring harness,10,15000,0.4,1,0.25,True
+S005,Supplier Epsilon,Thailand,2,C005,Electronic substrate,28,10000,0.65,1,0.35,True
+S006,Supplier Zeta,India,2,C006,Connector set,12,18000,0.3,1,0.25,True
